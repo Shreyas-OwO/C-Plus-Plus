@@ -1,12 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"d3/d24/qr__decomposition_8cpp.html":[9,0,11,13],
-"d3/d24/qr__decomposition_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[9,0,11,13,0],
-"d3/d26/binary__search__tree_8cpp.html":[9,0,2,2],
-"d3/d26/binary__search__tree_8cpp.html#a13dac1586cbb95ebfd63dc47aeeff0e1":[9,0,2,2,9],
-"d3/d26/binary__search__tree_8cpp.html#a1ca1e6aad9a9e45c1d21a7c8f61bccc3":[9,0,2,2,4],
-"d3/d26/binary__search__tree_8cpp.html#a4392f2f3d0680befc1a6db07d94d6c5d":[9,0,2,2,11],
-"d3/d26/binary__search__tree_8cpp.html#a4a1aaff44d949318d93231e1fa5c7863":[9,0,2,2,5],
 "d3/d26/binary__search__tree_8cpp.html#a521ea77f195e491750e602292c6dc335":[9,0,2,2,7],
 "d3/d26/binary__search__tree_8cpp.html#a9e98619e1c6cea9d6c56849a16ecc416":[9,0,2,2,10],
 "d3/d26/binary__search__tree_8cpp.html#aa65d9b7fa9bd517ace3d819abc85c8b6":[9,0,2,2,2],
@@ -220,8 +213,8 @@ var NAVTREEINDEX1 =
 "d5/d4c/group__sorting.html#gabd9a93f241c5c86f2ec0abf8b66b4145":[9,0,16,4,0],
 "d5/d4c/group__sorting.html#gae66f6b31b5ad750f1fe042a706a4e3d4":[6,3,2],
 "d5/d4c/group__sorting.html#gae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,16,7,0],
-"d5/d5f/namespacegeometry.html":[8,0,3],
 "d5/d5f/namespacegeometry.html":[7,0,8],
+"d5/d5f/namespacegeometry.html":[8,0,3],
 "d5/d67/bayes__theorem_8cpp.html":[9,0,13,1],
 "d5/d67/bayes__theorem_8cpp.html#a655bfe51252468d232dc639a340656ba":[9,0,13,1,0],
 "d5/d67/bayes__theorem_8cpp.html#abb4f22dc05887c2259fdfc55c687598f":[9,0,13,1,1],
@@ -249,5 +242,12 @@ var NAVTREEINDEX1 =
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md42":[3,13],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md43":[3,14],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md44":[3,15],
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45":[3,16]
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45":[3,16],
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46":[3,17],
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47":[3,18],
+"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html":[8,0,7,0,0],
+"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#a6ae98710503b894b843d01cb69d5490c":[8,0,7,0,0,1],
+"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#af06360122e20ce2ba32c574a27a20ba1":[8,0,7,0,0,0],
+"d5/d91/namespacesorting.html":[7,0,31],
+"d5/da1/structnode.html":[8,0,28]
 };

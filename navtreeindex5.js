@@ -1,11 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"dd/d0c/hamiltons__cycle_8cpp.html":[9,0,5,4],
-"dd/d0c/hamiltons__cycle_8cpp.html#a0cc94918b6831f308d4fe4fa27f08299":[9,0,5,4,4],
-"dd/d0c/hamiltons__cycle_8cpp.html#a0ceb473236b5dc53a85e281ef528dd96":[9,0,5,4,0],
-"dd/d0c/hamiltons__cycle_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[9,0,5,4,1],
-"dd/d0c/hamiltons__cycle_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae":[9,0,5,4,3],
-"dd/d0c/hamiltons__cycle_8cpp.html#ae7880ce913f3058a35ff106d5be9e243":[9,0,5,4,2],
 "dd/d0d/insertion__sort_8cpp.html":[9,0,16,5],
 "dd/d0d/insertion__sort_8cpp.html#a59914553f24088342c139645a02a8a49":[9,0,16,5,0],
 "dd/d0d/insertion__sort_8cpp.html#a78cb2f3b97b6db2c062b2a1df05c9ea9":[9,0,16,5,2],
@@ -61,8 +55,8 @@ var NAVTREEINDEX5 =
 "dd/d65/lu__decompose_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[9,0,11,6,2],
 "dd/d65/lu__decompose_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[9,0,11,6,0],
 "dd/d65/lu__decompose_8cpp.html#a9459fcd1f020373d73eae2bad43786d0":[9,0,11,6,1],
-"dd/d69/namespacerange__queries.html":[7,0,28],
 "dd/d69/namespacerange__queries.html":[8,0,9],
+"dd/d69/namespacerange__queries.html":[7,0,28],
 "dd/d81/namespacecaesar.html":[7,0,2],
 "dd/d91/class_fenwick_tree.html":[8,0,18],
 "dd/d91/class_fenwick_tree.html#a115ff5c548b429b737ea09f75817d1f9":[8,0,18,4],
@@ -171,6 +165,10 @@ var NAVTREEINDEX5 =
 "df/d64/jumpgame_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[9,0,7,0,2],
 "df/d64/jumpgame_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,7,0,1],
 "df/d64/jumpgame_8cpp.html#af205390325e8c999bd68b93fa5252755":[9,0,7,0,0],
+"df/d66/vector__cross__product_8cpp.html":[9,0,10,32],
+"df/d66/vector__cross__product_8cpp.html#a86cece59df22a931d4904acdace0d288":[9,0,10,32,1],
+"df/d66/vector__cross__product_8cpp.html#ad0f10412c9ad2c589b2ce005c44acb2b":[9,0,10,32,0],
+"df/d66/vector__cross__product_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,10,32,2],
 "df/d82/breadth__first__search_8cpp.html":[9,0,5,0],
 "df/d82/breadth__first__search_8cpp.html#a0e0d3bf6c8a63f8071395c53a3cd148d":[9,0,5,0,3],
 "df/d82/breadth__first__search_8cpp.html#a1a13974bfe597e853bffe91aa2d3944d":[9,0,5,0,1],
@@ -224,6 +222,7 @@ var NAVTREEINDEX5 =
 "dir_e79632891301b850df87e9c0030293fa.html":[9,0,6],
 "dir_ece9b94c107bbaa1dd68197a8c9983b9.html":[9,0,8],
 "dir_f1797d0c2a0a12033e7d74efffeb14e1.html":[9,0,2,0],
+"examples.html":[10],
 "files.html":[9,0],
 "functions.html":[8,3,0,0],
 "functions.html":[8,3,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX5 =
 "functions_s.html":[8,3,0,18],
 "functions_t.html":[8,3,0,19],
 "functions_type.html":[8,3,3],
-"functions_u.html":[8,3,0,20]
+"functions_u.html":[8,3,0,20],
+"functions_v.html":[8,3,0,21]
 };
