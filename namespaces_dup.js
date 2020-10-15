@@ -19,6 +19,7 @@ var namespaces_dup =
     [ "linear_probing", "d8/d89/namespacelinear__probing.html", null ],
     [ "linked_list", "d3/db0/namespacelinked__list.html", null ],
     [ "machine_learning", "d8/d77/namespacemachine__learning.html", null ],
+    [ "math", "dd/d47/namespacemath.html", null ],
     [ "median_search", "da/dd4/namespacemedian__search.html", null ],
     [ "merge_insertion", "de/d0a/namespacemerge__insertion.html", null ],
     [ "n_queens", "d3/da1/namespacen__queens.html", null ],
@@ -39,6 +40,7 @@ var namespaces_dup =
     [ "string_search", "d9/d03/namespacestring__search.html", null ],
     [ "strings", "df/dcb/namespacestrings.html", null ],
     [ "util_functions", "d3/d17/namespaceutil__functions.html", null ],
+    [ "vector_cross", "d4/d91/namespacevector__cross.html", null ],
     [ "vigenere", "d6/da2/namespacevigenere.html", null ],
     [ "XOR", "d7/d47/namespace_x_o_r.html", null ]
 ];

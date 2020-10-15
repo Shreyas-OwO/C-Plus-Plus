@@ -1,5 +1,6 @@
 var NAVTREEINDEX2 =
 {
+"d5/da1/structnode.html":[8,0,28],
 "d5/da1/structnode.html#a063635bc4e984d971d1efeb4230b0515":[8,0,28,5],
 "d5/da1/structnode.html#a0d4a5d1d3d77036ea6640f34b17b6554":[8,0,28,4],
 "d5/da1/structnode.html#a0ff89d3a408eee8a4ce6a69bfe0ddecf":[8,0,28,10],
@@ -93,8 +94,8 @@ var NAVTREEINDEX2 =
 "d6/d60/group__ode.html#ga36ff0710861ca39d957046c0b09b2985":[9,0,11,10,2],
 "d6/d60/group__ode.html#ga3874d294ab00fe9ce8731c5b7991a089":[6,2,4],
 "d6/d60/group__ode.html#ga3874d294ab00fe9ce8731c5b7991a089":[9,0,11,11,4],
-"d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[6,2,5],
 "d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[9,0,11,11,5],
+"d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[6,2,5],
 "d6/d60/group__ode.html#ga8c319db420c3d97a83e9dcca803b6812":[6,2,3],
 "d6/d60/group__ode.html#ga8c319db420c3d97a83e9dcca803b6812":[9,0,11,10,3],
 "d6/d60/group__ode.html#gae0509f8843e2bc42de2abbd00a14b7b9":[9,0,11,9,1],
@@ -137,7 +138,7 @@ var NAVTREEINDEX2 =
 "d6/d9d/large__factorial_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[9,0,10,17,0],
 "d6/d9d/large__factorial_8cpp.html#a3f93b60e229b6683e24c4754a7106ee8":[9,0,10,17,1],
 "d6/d9d/large__factorial_8cpp.html#a76aae4778fbe89a3d59fd61fbc050cfa":[9,0,10,17,2],
-"d6/da2/namespacevigenere.html":[7,0,39],
+"d6/da2/namespacevigenere.html":[7,0,41],
 "d6/db0/binomial__dist_8cpp.html":[9,0,13,2],
 "d6/db0/binomial__dist_8cpp.html#a19ae0a6a2bd200fd1eb0e31b2bf4cc76":[9,0,13,2,4],
 "d6/db0/binomial__dist_8cpp.html#a4416a7bc7fa87201883c54cdc4c82813":[9,0,13,2,0],
@@ -203,7 +204,7 @@ var NAVTREEINDEX2 =
 "d7/d35/matrix__exponentiation_8cpp.html#ad8389ed58fd0ec66df248014775ad1fa":[9,0,12,6,4],
 "d7/d35/matrix__exponentiation_8cpp.html#ae1d1ec9482079231e898236e2b23c9ba":[9,0,12,6,1],
 "d7/d35/matrix__exponentiation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,12,6,5],
-"d7/d47/namespace_x_o_r.html":[7,0,40],
+"d7/d47/namespace_x_o_r.html":[7,0,42],
 "d7/d65/shortest__common__supersequence_8cpp.html":[9,0,3,2],
 "d7/d65/shortest__common__supersequence_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[9,0,3,2,2],
 "d7/d65/shortest__common__supersequence_8cpp.html#ad2ee8d7e67da9f6eb85146b08dad95e6":[9,0,3,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX2 =
 "d7/d7c/classstatistics_1_1stats__computer1.html#af57e942d49f4fd70f059f224b4ac07e1":[8,0,10,0,2],
 "d7/d7f/section.html":[4],
 "d7/d83/trie__tree_8cpp.html":[9,0,2,13],
-"d7/d83/trie__tree_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[9,0,2,13,2],
-"d7/d83/trie__tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,2,13,1]
+"d7/d83/trie__tree_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[9,0,2,13,2]
 };

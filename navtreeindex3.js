@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"d7/d83/trie__tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,2,13,1],
 "d7/d89/double__factorial_8cpp.html":[9,0,10,6],
 "d7/d89/double__factorial_8cpp.html#a0a3c417360400093891a9ccddaa4be26":[9,0,10,6,0],
 "d7/d89/double__factorial_8cpp.html#a68ba20fed2ce427f6469c7689437829d":[9,0,10,6,1],
@@ -30,7 +31,7 @@ var NAVTREEINDEX3 =
 "d8/d10/structlist.html#aec0e6f9f6cbe56458c69dedd4044feec":[8,0,24,7],
 "d8/d13/bubble__sort_8cpp.html":[9,0,16,1],
 "d8/d13/bubble__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,16,1,0],
-"d8/d1d/namespacestrand.html":[7,0,35],
+"d8/d1d/namespacestrand.html":[7,0,36],
 "d8/d36/namespacecut__rod.html":[7,0,4],
 "d8/d38/queue_8h_source.html":[9,0,2,8],
 "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html":[9,0,10,21],
@@ -39,8 +40,8 @@ var NAVTREEINDEX3 =
 "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,10,21,2],
 "d8/d6c/line__segment__intersection_8cpp.html":[9,0,4,1],
 "d8/d6c/line__segment__intersection_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,4,1,2],
-"d8/d77/namespacemachine__learning.html":[8,0,6],
 "d8/d77/namespacemachine__learning.html":[7,0,18],
+"d8/d77/namespacemachine__learning.html":[8,0,6],
 "d8/d89/namespacelinear__probing.html":[7,0,16],
 "d8/d89/namespacelinear__probing.html":[8,0,5],
 "d8/d8a/exponential__search_8cpp.html":[9,0,15,1],
@@ -88,7 +89,7 @@ var NAVTREEINDEX3 =
 "d8/dc8/struct_point.html#ab99c56589bc8ad5fa5071387110a5bc7":[8,0,30,2],
 "d8/dc8/struct_point.html#ae2d6fb1b3fd3a96169d963d62e37130a":[8,0,30,0],
 "d8/dc8/struct_point.html#afa38be143ae800e6ad69ce8ed4df62d8":[8,0,30,4],
-"d8/dcc/namespacestd.html":[7,0,34],
+"d8/dcc/namespacestd.html":[7,0,35],
 "d8/dd5/check__factorial_8cpp.html":[9,0,10,3],
 "d8/dd5/check__factorial_8cpp.html#a814eea122b9c241c2b7c1ab760a3eca2":[9,0,10,3,0],
 "d8/dd5/check__factorial_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[9,0,10,3,2],
@@ -116,7 +117,7 @@ var NAVTREEINDEX3 =
 "d9/d02/linear__search_8cpp.html":[9,0,15,7],
 "d9/d02/linear__search_8cpp.html#a84ac3988a534eb60ca351ed6caf56d84":[9,0,15,7,0],
 "d9/d02/linear__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,15,7,1],
-"d9/d03/namespacestring__search.html":[7,0,36],
+"d9/d03/namespacestring__search.html":[7,0,37],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html":[8,0,4,2],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html#a42589cc39d6bbff6c997152f1b96e356":[8,0,4,2,2],
 "d9/d23/classgraph_1_1_lowest_common_ancestor.html#a46d10f669791e3da9a4809bd8ff8d3ad":[8,0,4,2,4],
@@ -192,7 +193,7 @@ var NAVTREEINDEX3 =
 "d9/d90/struct_btree.html#a87e9234afb3e704333af3a2da6b905d3":[8,0,11,2],
 "d9/d92/chaining_8cpp.html":[9,0,8,0],
 "d9/d92/chaining_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,8,0,1],
-"d9/dca/namespacesearch.html":[7,0,29],
+"d9/dca/namespacesearch.html":[7,0,30],
 "d9/dd7/interpolation__search_8cpp.html":[9,0,15,4],
 "d9/dd7/interpolation__search_8cpp.html#a9805865b5c5ca6b0fdf95fd86132625a":[9,0,15,4,0],
 "d9/dd7/interpolation__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,15,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "da/d8d/depth__first__search_8cpp.html#a33d8f7759375aee956643d76df491b7b":[9,0,5,2,0],
 "da/d8d/depth__first__search_8cpp.html#a48acac475cb48614279e7ea784c32fc3":[9,0,5,2,2],
 "da/d8d/depth__first__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,5,2,3],
-"da/d9a/class_graph.html":[8,0,19],
-"da/d9a/class_graph.html#a04365fc6f13bf330e38dbc1424134827":[8,0,19,6]
+"da/d9a/class_graph.html":[8,0,19]
 };

@@ -1,6 +1,4 @@
 <map id="main" name="main">
-<area shape="rect" id="node1" title="Main Function." alt="" coords="5,56,56,83"/>
-<area shape="rect" id="node2" href="$df/d66/vector__cross__product_8cpp.html#ad0f10412c9ad2c589b2ce005c44acb2b" title="Function to calculate the cross product of the passed arrays containing the direction ratios of the t..." alt="" coords="113,5,167,32"/>
-<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/io/manip/endl.html#" title=" " alt="" coords="104,56,176,83"/>
-<area shape="rect" id="node4" href="$df/d66/vector__cross__product_8cpp.html#a86cece59df22a931d4904acdace0d288" title="Calculates the magnitude of the mathematical vector from it&#39;s direction ratios." alt="" coords="117,107,163,133"/>
+<area shape="rect" id="node1" title="Main Function." alt="" coords="5,5,56,32"/>
+<area shape="rect" id="node2" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/io/manip/endl.html#" title=" " alt="" coords="104,5,176,32"/>
 </map>
