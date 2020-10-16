@@ -127,7 +127,7 @@ var NAVTREEINDEX =
 "d7/d7c/classstatistics_1_1stats__computer1.html#aa13bf7c38de112f71921a5525d71a2f2",
 "da/d7b/primality__test_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
 "dc/dfe/ternary__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"functions_p.html"
+"functions_o.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

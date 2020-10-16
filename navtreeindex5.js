@@ -175,8 +175,9 @@ var NAVTREEINDEX5 =
 "df/d64/jumpgame_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,7,0,1],
 "df/d64/jumpgame_8cpp.html#af205390325e8c999bd68b93fa5252755":[9,0,7,0,0],
 "df/d66/vector__cross__product_8cpp.html":[9,0,10,32],
-"df/d66/vector__cross__product_8cpp.html#a43abb9b6c282b7be192f1f97b6244659":[9,0,10,32,1],
-"df/d66/vector__cross__product_8cpp.html#ac58635fce03ae38188550ce6d938a4c5":[9,0,10,32,0],
+"df/d66/vector__cross__product_8cpp.html#a4b2a9757a87c18e1642d72410ecfaba8":[9,0,10,32,1],
+"df/d66/vector__cross__product_8cpp.html#abed307975124243d63fe2e118254defe":[9,0,10,32,0],
+"df/d66/vector__cross__product_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[9,0,10,32,3],
 "df/d66/vector__cross__product_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,10,32,2],
 "df/d82/breadth__first__search_8cpp.html":[9,0,5,0],
 "df/d82/breadth__first__search_8cpp.html#a0e0d3bf6c8a63f8071395c53a3cd148d":[9,0,5,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "functions_k.html":[8,3,0,10],
 "functions_l.html":[8,3,0,11],
 "functions_m.html":[8,3,0,12],
-"functions_n.html":[8,3,0,13],
-"functions_o.html":[8,3,0,14]
+"functions_n.html":[8,3,0,13]
 };
