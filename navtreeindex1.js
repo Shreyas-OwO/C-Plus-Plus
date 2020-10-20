@@ -1,12 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"d3/d24/qr__decomposition_8cpp.html":[9,0,11,13],
-"d3/d24/qr__decomposition_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[9,0,11,13,0],
-"d3/d26/binary__search__tree_8cpp.html":[9,0,2,2],
-"d3/d26/binary__search__tree_8cpp.html#a13dac1586cbb95ebfd63dc47aeeff0e1":[9,0,2,2,9],
-"d3/d26/binary__search__tree_8cpp.html#a1ca1e6aad9a9e45c1d21a7c8f61bccc3":[9,0,2,2,4],
-"d3/d26/binary__search__tree_8cpp.html#a4392f2f3d0680befc1a6db07d94d6c5d":[9,0,2,2,11],
-"d3/d26/binary__search__tree_8cpp.html#a4a1aaff44d949318d93231e1fa5c7863":[9,0,2,2,5],
 "d3/d26/binary__search__tree_8cpp.html#a521ea77f195e491750e602292c6dc335":[9,0,2,2,7],
 "d3/d26/binary__search__tree_8cpp.html#a9e98619e1c6cea9d6c56849a16ecc416":[9,0,2,2,10],
 "d3/d26/binary__search__tree_8cpp.html#aa65d9b7fa9bd517ace3d819abc85c8b6":[9,0,2,2,2],
@@ -212,8 +205,8 @@ var NAVTREEINDEX1 =
 "d5/d4c/group__sorting.html":[6,3],
 "d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[6,3,5],
 "d5/d4c/group__sorting.html#ga0a9a57a1f1bbba3d4822531d002b7e07":[9,0,16,7,3],
-"d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[9,0,16,4,1],
 "d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[6,3,1],
+"d5/d4c/group__sorting.html#ga29d28b140174dbdde7c9f5157758435f":[9,0,16,4,1],
 "d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73":[6,3,3],
 "d5/d4c/group__sorting.html#ga460c61cd948203b4816bef2accb3fc73":[9,0,16,7,1],
 "d5/d4c/group__sorting.html#gab6b14fea48d9841e29b9fc26be6e05d7":[6,3,4],
@@ -249,5 +242,12 @@ var NAVTREEINDEX1 =
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md41":[3,12],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md42":[3,13],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md43":[3,14],
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md44":[3,15]
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md44":[3,15],
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45":[3,16],
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46":[3,17],
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47":[3,18],
+"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html":[8,0,7,0,0],
+"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#a6ae98710503b894b843d01cb69d5490c":[8,0,7,0,0,1],
+"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#af06360122e20ce2ba32c574a27a20ba1":[8,0,7,0,0,0],
+"d5/d91/namespacesorting.html":[7,0,32]
 };

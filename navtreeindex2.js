@@ -1,12 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45":[3,16],
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46":[3,17],
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47":[3,18],
-"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html":[8,0,7,0,0],
-"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#a6ae98710503b894b843d01cb69d5490c":[8,0,7,0,0,1],
-"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#af06360122e20ce2ba32c574a27a20ba1":[8,0,7,0,0,0],
-"d5/d91/namespacesorting.html":[7,0,32],
 "d5/da1/structnode.html":[8,0,28],
 "d5/da1/structnode.html#a063635bc4e984d971d1efeb4230b0515":[8,0,28,5],
 "d5/da1/structnode.html#a0d4a5d1d3d77036ea6640f34b17b6554":[8,0,28,4],
@@ -101,8 +94,8 @@ var NAVTREEINDEX2 =
 "d6/d60/group__ode.html#ga36ff0710861ca39d957046c0b09b2985":[9,0,11,10,2],
 "d6/d60/group__ode.html#ga3874d294ab00fe9ce8731c5b7991a089":[6,2,4],
 "d6/d60/group__ode.html#ga3874d294ab00fe9ce8731c5b7991a089":[9,0,11,11,4],
-"d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[9,0,11,11,5],
 "d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[6,2,5],
+"d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[9,0,11,11,5],
 "d6/d60/group__ode.html#ga8c319db420c3d97a83e9dcca803b6812":[6,2,3],
 "d6/d60/group__ode.html#ga8c319db420c3d97a83e9dcca803b6812":[9,0,11,10,3],
 "d6/d60/group__ode.html#gae0509f8843e2bc42de2abbd00a14b7b9":[9,0,11,9,1],
@@ -249,5 +242,12 @@ var NAVTREEINDEX2 =
 "d7/d7c/classstatistics_1_1stats__computer1.html#a2a097b80909181880f13b54a264ed337":[8,0,10,0,5],
 "d7/d7c/classstatistics_1_1stats__computer1.html#a390697dcee210b91823ceff04b25081b":[8,0,10,0,0],
 "d7/d7c/classstatistics_1_1stats__computer1.html#a48c03a44c784eb6913ad186d34c302db":[8,0,10,0,7],
-"d7/d7c/classstatistics_1_1stats__computer1.html#a8ab2b14d5650b14e46b70b412573f60a":[8,0,10,0,6]
+"d7/d7c/classstatistics_1_1stats__computer1.html#a8ab2b14d5650b14e46b70b412573f60a":[8,0,10,0,6],
+"d7/d7c/classstatistics_1_1stats__computer1.html#aa13bf7c38de112f71921a5525d71a2f2":[8,0,10,0,1],
+"d7/d7c/classstatistics_1_1stats__computer1.html#ab2e69e75fe0da096bf61fa13420b43eb":[8,0,10,0,8],
+"d7/d7c/classstatistics_1_1stats__computer1.html#ab5b4bfecdf391cae7edb1fe98548b846":[8,0,10,0,4],
+"d7/d7c/classstatistics_1_1stats__computer1.html#af57e942d49f4fd70f059f224b4ac07e1":[8,0,10,0,2],
+"d7/d7f/section.html":[4],
+"d7/d83/trie__tree_8cpp.html":[9,0,2,13],
+"d7/d83/trie__tree_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[9,0,2,13,2]
 };

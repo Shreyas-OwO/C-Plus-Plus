@@ -1,12 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"dc/dfe/ternary__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,15,9,5],
-"dc/dfe/ternary__search_8cpp.html#aef655a27eb82efa299bf9d0becf6e9c8":[9,0,15,9,7],
-"dd/d0c/hamiltons__cycle_8cpp.html":[9,0,5,4],
-"dd/d0c/hamiltons__cycle_8cpp.html#a0cc94918b6831f308d4fe4fa27f08299":[9,0,5,4,4],
-"dd/d0c/hamiltons__cycle_8cpp.html#a0ceb473236b5dc53a85e281ef528dd96":[9,0,5,4,0],
-"dd/d0c/hamiltons__cycle_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[9,0,5,4,1],
-"dd/d0c/hamiltons__cycle_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae":[9,0,5,4,3],
 "dd/d0c/hamiltons__cycle_8cpp.html#ae7880ce913f3058a35ff106d5be9e243":[9,0,5,4,2],
 "dd/d0d/insertion__sort_8cpp.html":[9,0,16,5],
 "dd/d0d/insertion__sort_8cpp.html#a59914553f24088342c139645a02a8a49":[9,0,16,5,0],
@@ -249,5 +242,12 @@ var NAVTREEINDEX5 =
 "functions_k.html":[8,3,0,10],
 "functions_l.html":[8,3,0,11],
 "functions_m.html":[8,3,0,12],
-"functions_n.html":[8,3,0,13]
+"functions_n.html":[8,3,0,13],
+"functions_o.html":[8,3,0,14],
+"functions_p.html":[8,3,0,15],
+"functions_q.html":[8,3,0,16],
+"functions_r.html":[8,3,0,17],
+"functions_rela.html":[8,3,4],
+"functions_s.html":[8,3,0,18],
+"functions_t.html":[8,3,0,19]
 };
