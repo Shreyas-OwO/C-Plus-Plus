@@ -40,8 +40,8 @@ var NAVTREEINDEX3 =
 "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,10,21,2],
 "d8/d6c/line__segment__intersection_8cpp.html":[9,0,4,1],
 "d8/d6c/line__segment__intersection_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,4,1,2],
-"d8/d77/namespacemachine__learning.html":[7,0,18],
 "d8/d77/namespacemachine__learning.html":[8,0,6],
+"d8/d77/namespacemachine__learning.html":[7,0,18],
 "d8/d89/namespacelinear__probing.html":[7,0,16],
 "d8/d89/namespacelinear__probing.html":[8,0,5],
 "d8/d8a/exponential__search_8cpp.html":[9,0,15,1],
@@ -130,7 +130,6 @@ var NAVTREEINDEX3 =
 "d9/d24/poisson__dist_8cpp.html#ad0aa718023ce802dd5899f0e03a7ac71":[9,0,13,3,2],
 "d9/d24/poisson__dist_8cpp.html#ad9c9e74079278ca10e3b97a8d5391c9a":[9,0,13,3,3],
 "d9/d24/poisson__dist_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,13,3,1],
-"d9/d31/vector_cross_product_8cpp-example.html":[10,0],
 "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html":[8,0,9,0,1],
 "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#a1fda852e6e522707fd97f61cdb0a2591":[8,0,9,0,1,2],
 "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#a3c75bf5770790f8eba8cc92227b5400c":[8,0,9,0,1,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX3 =
 "da/d8d/depth__first__search_8cpp.html#a33d8f7759375aee956643d76df491b7b":[9,0,5,2,0],
 "da/d8d/depth__first__search_8cpp.html#a48acac475cb48614279e7ea784c32fc3":[9,0,5,2,2],
 "da/d8d/depth__first__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,5,2,3],
-"da/d9a/class_graph.html":[8,0,19]
+"da/d9a/class_graph.html":[8,0,19],
+"da/d9a/class_graph.html#a04365fc6f13bf330e38dbc1424134827":[8,0,19,6]
 };

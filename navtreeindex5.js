@@ -1,6 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"dd/d0c/hamiltons__cycle_8cpp.html#ae7880ce913f3058a35ff106d5be9e243":[9,0,5,4,2],
 "dd/d0d/insertion__sort_8cpp.html":[9,0,16,5],
 "dd/d0d/insertion__sort_8cpp.html#a59914553f24088342c139645a02a8a49":[9,0,16,5,0],
 "dd/d0d/insertion__sort_8cpp.html#a78cb2f3b97b6db2c062b2a1df05c9ea9":[9,0,16,5,2],
@@ -184,8 +183,8 @@ var NAVTREEINDEX5 =
 "df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,11,15,2],
 "df/dc8/successive__approximation_8cpp.html#ae89c36add7c55298c5195d0a83de1456":[9,0,11,15,1],
 "df/dcb/namespacestrings.html":[7,0,38],
-"df/dce/namespacegraph.html":[7,0,9],
 "df/dce/namespacegraph.html":[8,0,4],
+"df/dce/namespacegraph.html":[7,0,9],
 "df/dd0/queue__using__two__stacks_8cpp.html":[9,0,2,9],
 "df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863":[9,0,2,9,1],
 "df/dd0/queue__using__two__stacks_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,2,9,0],
@@ -225,7 +224,6 @@ var NAVTREEINDEX5 =
 "dir_e79632891301b850df87e9c0030293fa.html":[9,0,6],
 "dir_ece9b94c107bbaa1dd68197a8c9983b9.html":[9,0,8],
 "dir_f1797d0c2a0a12033e7d74efffeb14e1.html":[9,0,2,0],
-"examples.html":[10],
 "files.html":[9,0],
 "functions.html":[8,3,0],
 "functions.html":[8,3,0,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX5 =
 "functions_r.html":[8,3,0,17],
 "functions_rela.html":[8,3,4],
 "functions_s.html":[8,3,0,18],
-"functions_t.html":[8,3,0,19]
+"functions_t.html":[8,3,0,19],
+"functions_type.html":[8,3,3],
+"functions_u.html":[8,3,0,20]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"da/d9a/class_graph.html#a04365fc6f13bf330e38dbc1424134827":[8,0,19,6],
 "da/d9a/class_graph.html#a10ff9c6c323cf435f18e424dbb62235e":[8,0,19,27],
 "da/d9a/class_graph.html#a13697caf8be6275ebb7b9497c9a9d6e5":[8,0,19,30],
 "da/d9a/class_graph.html#a14da756c7e346c651e8cf14df2437d4a":[8,0,19,21],
@@ -249,5 +248,6 @@ var NAVTREEINDEX4 =
 "dd/d0c/hamiltons__cycle_8cpp.html#a0cc94918b6831f308d4fe4fa27f08299":[9,0,5,4,4],
 "dd/d0c/hamiltons__cycle_8cpp.html#a0ceb473236b5dc53a85e281ef528dd96":[9,0,5,4,0],
 "dd/d0c/hamiltons__cycle_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[9,0,5,4,1],
-"dd/d0c/hamiltons__cycle_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae":[9,0,5,4,3]
+"dd/d0c/hamiltons__cycle_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae":[9,0,5,4,3],
+"dd/d0c/hamiltons__cycle_8cpp.html#ae7880ce913f3058a35ff106d5be9e243":[9,0,5,4,2]
 };
